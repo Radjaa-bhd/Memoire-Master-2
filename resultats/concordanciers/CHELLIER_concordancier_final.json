@@ -1,0 +1,1172 @@
+[
+  {
+    "figure_feminine": "indigène",
+    "contexte_avant_10_tokens": "a l'étude des problèmes qui se rattachent à la question",
+    "contexte_apres_10_tokens": "Il a étudié les moyens à employer pour améliorer le",
+    "phrase_complete": "Ce haut fonctionnaire apporte, on le sait uae sollicitude particulière a l'étude des problèmes qui se rattachent à la question (indigène)."
+  },
+  {
+    "figure_feminine": "arabe",
+    "contexte_avant_10_tokens": "moyens à employer pour améliorer le sort de la population",
+    "contexte_apres_10_tokens": "et l'une des innovations qu'il préconise à cet égard est",
+    "phrase_complete": "Il a étudié les moyens à employer pour améliorer le sort de la population (arabe) et l'une des innovations qu'il préconise à cet égard est la création d'hôpitaux de campagne établis dans les régions éloignées (Kabylie, M'zab, Aurès)."
+  },
+  {
+    "figure_feminine": "indigènes",
+    "contexte_avant_10_tokens": "après le voyage que je viens de faire, que ces",
+    "contexte_apres_10_tokens": "se distinguent des autres tribus algériennes par une intelligence plus",
+    "phrase_complete": "Il m'apparaît comme évident, après le voyage que je viens de faire, que ces (indigènes) se distinguent des autres tribus algériennes par une intelligence plus saine et plus pratique, et qu'ils présentent à un haut degré les caractères de perfectibilité qui font très souvent défaut à leurs congénères."
+  },
+  {
+    "figure_feminine": "algériennes",
+    "contexte_avant_10_tokens": "de faire, que ces indigènes se distinguent des autres tribus",
+    "contexte_apres_10_tokens": "par une intelligence plus saine et plus pratique, et qu'ils",
+    "phrase_complete": "Il m'apparaît comme évident, après le voyage que je viens de faire, que ces indigènes se distinguent des autres tribus (algériennes) par une intelligence plus saine et plus pratique, et qu'ils présentent à un haut degré les caractères de perfectibilité qui font très souvent défaut à leurs congénères."
+  },
+  {
+    "figure_feminine": "Arabes",
+    "contexte_avant_10_tokens": "conquête de l'Algérie `. nos efforts, pour nous assimiler les",
+    "contexte_apres_10_tokens": "sont restés à pou près stériles. Les flatteries, les. rigueurs",
+    "phrase_complete": "nos efforts, pour nous assimiler les (Arabes), sont restés à pou près stériles."
+  },
+  {
+    "figure_feminine": "Arabe",
+    "contexte_avant_10_tokens": "stériles. Les flatteries, les. rigueurs n'ont abouti à aacnnrésultat sérieux.",
+    "contexte_apres_10_tokens": "demeure réfractaire à'tontes~~ les tentatives de civilisation. Etant d'origine algérienne,",
+    "phrase_complete": "L'(Arabe) demeure réfractaire à'tontes~~ les tentatives de civilisation."
+  },
+  {
+    "figure_feminine": "algérienne",
+    "contexte_avant_10_tokens": "L'Arabe demeure réfractaire à'tontes~~ les tentatives de civilisation. Etant d'origine",
+    "contexte_apres_10_tokens": "etcoBBai~mt lëstaoeM~ du pays, je m'étais souvent demandé si la",
+    "phrase_complete": "Etant d'origine (algérienne), etcoBBai~mt lëstaoeM~ du pays, je m'étais souvent demandé si la non possibilité de pénétrer dans le gynécée n'était pas une des causes pour lesquelles l'assimilation était restée ~usqu'ici~impossible."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "l'assimilation était restée ~usqu'ici~impossible. Je m'étais demandé encore si une",
+    "contexte_apres_10_tokens": "médecin ne pourrait pas faire quelque chose d'utile en facilitant",
+    "phrase_complete": "Je m'étais demandé encore si une (femme) médecin ne pourrait pas faire quelque chose d'utile en facilitant l'introduction de nos idées dans -ce milieu si obstinément, si volontairement éloigné de nous."
+  },
+  {
+    "figure_feminine": "indigènes",
+    "contexte_avant_10_tokens": "cherchait a, utiliser les médecins, non seulement pour apporter aux",
+    "contexte_apres_10_tokens": "le secours de soins éclairés et détruire l'mQuence des toubibs",
+    "phrase_complete": "Je savais que M. Cambon cherchait a, utiliser les médecins, non seulement pour apporter aux (indigènes) le secours de soins éclairés et détruire l'mQuence des toubibs qui exploitent si indignement la crédulité de leurs coreligionnaires, mais encore pour hâter l'oeuvre d'assimilation."
+  },
+  {
+    "figure_feminine": "indigènes",
+    "contexte_avant_10_tokens": "compléter les observations que j'avais déjà faites ~ur les coutumes",
+    "contexte_apres_10_tokens": "je demandais à M. le Gouverneur général de bien vouloir",
+    "phrase_complete": "Connaissant toutes ces choses et désirant compléter les observations que j'avais déjà faites ~ur les coutumes (indigènes), je demandais à M. le Gouverneur général de bien vouloir me confier une mission dans une région éloignée."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "oa le verra dans le récit de mon voyage, la",
+    "contexte_apres_10_tokens": "chaouïa est plus accessible que la femme arabe elle n'est",
+    "phrase_complete": "Comme oa le verra dans le récit de mon voyage, la (femme) chaouïa est plus accessible que la femme arabe elle n'est pas voilée et ne s& cache pas aux regards des hommes mais, commepartout ailleurs elle se refuserait à accepter les soins d'un médecin qui ne serait pas de son sexe, que le praticien soit musulman on chrétien~ tandis qu'elle se livre et donne une entière confiance à la femme."
+  },
+  {
+    "figure_feminine": "arabe",
+    "contexte_avant_10_tokens": "voyage, la femme chaouïa est plus accessible que la femme",
+    "contexte_apres_10_tokens": "elle n'est pas voilée et ne s& cache pas aux",
+    "phrase_complete": "Comme oa le verra dans le récit de mon voyage, la femme chaouïa est plus accessible que la femme (arabe) elle n'est pas voilée et ne s& cache pas aux regards des hommes mais, commepartout ailleurs elle se refuserait à accepter les soins d'un médecin qui ne serait pas de son sexe, que le praticien soit musulman on chrétien~ tandis qu'elle se livre et donne une entière confiance à la femme."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "mon voyage, la femme chaouïa est plus accessible que la",
+    "contexte_apres_10_tokens": "arabe elle n'est pas voilée et ne s& cache pas",
+    "phrase_complete": "Comme oa le verra dans le récit de mon voyage, la femme chaouïa est plus accessible que la (femme) arabe elle n'est pas voilée et ne s& cache pas aux regards des hommes mais, commepartout ailleurs elle se refuserait à accepter les soins d'un médecin qui ne serait pas de son sexe, que le praticien soit musulman on chrétien~ tandis qu'elle se livre et donne une entière confiance à la femme."
+  },
+  {
+    "figure_feminine": "femme arabe",
+    "contexte_avant_10_tokens": "mon voyage, la femme chaouïa est plus accessible que la",
+    "contexte_apres_10_tokens": "elle n'est pas voilée et ne s& cache pas aux",
+    "phrase_complete": "Comme oa le verra dans le récit de mon voyage, la femme chaouïa est plus accessible que la (femme arabe) elle n'est pas voilée et ne s& cache pas aux regards des hommes mais, commepartout ailleurs elle se refuserait à accepter les soins d'un médecin qui ne serait pas de son sexe, que le praticien soit musulman on chrétien~ tandis qu'elle se livre et donne une entière confiance à la femme."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "respectant les mœurs arabes, d'agir sur la femme par la",
+    "contexte_apres_10_tokens": "Chez les peuples civilisés, et bien plus encore chez les",
+    "phrase_complete": "Je crois qu'il y aurait intérêtpour nous, en respectant les mœurs arabes, d'agir sur la femme par la (femme)."
+  },
+  {
+    "figure_feminine": "arabes",
+    "contexte_avant_10_tokens": "crois qu'il y aurait intérêtpour nous, en respectant les mœurs",
+    "contexte_apres_10_tokens": "d'agir sur la femme par la femme. Chez les peuples",
+    "phrase_complete": "Je crois qu'il y aurait intérêtpour nous, en respectant les mœurs (arabes), d'agir sur la femme par la femme."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "peuples primitifs, c'est toujours en opérant sur l'esprit de la",
+    "contexte_apres_10_tokens": "qu'on pénètre vraiment la famille. Vouloir agir directement sur l'homme",
+    "phrase_complete": "Chez les peuples civilisés, et bien plus encore chez les peuples primitifs, c'est toujours en opérant sur l'esprit de la (femme) qu'on pénètre vraiment la famille."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "peuples primitifs, c'est toujours en opérant sur l'esprit de la",
+    "contexte_apres_10_tokens": "qu'on pénètre vraiment la famille. Vouloir agir directement sur l'homme",
+    "phrase_complete": "Chez les peuples civilisés, et bien plus encore chez les peuples primitifs, c'est toujours en opérant sur l'esprit de la (femme) qu'on pénètre vraiment la famille."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "peuples primitifs, c'est toujours en opérant sur l'esprit de la",
+    "contexte_apres_10_tokens": "qu'on pénètre vraiment la famille. Vouloir agir directement sur l'homme",
+    "phrase_complete": "Chez les peuples civilisés, et bien plus encore chez les peuples primitifs, c'est toujours en opérant sur l'esprit de la (femme) qu'on pénètre vraiment la famille."
+  },
+  {
+    "figure_feminine": "mère",
+    "contexte_avant_10_tokens": "a l'éducation de l'enfant en obtenant la eonoance de la",
+    "contexte_apres_10_tokens": "en la visitant, en l'habituant à suivre nos directions. En",
+    "phrase_complete": "Coopérons a l'éducation de l'enfant en obtenant la eonoance de la (mère), en la visitant, en l'habituant à suivre nos directions."
+  },
+  {
+    "figure_feminine": "matrone",
+    "contexte_avant_10_tokens": "composé d'hommes. A côté du toubib, il y a la",
+    "contexte_apres_10_tokens": "ignorante et dangereuse qui seule conservera le privilège d'approcher la",
+    "phrase_complete": "A côté du toubib, il y a la (matrone) ignorante et dangereuse qui seule conservera le privilège d'approcher la femme malade 'lui faire donner la même instruction qu'aux futurs médecins indigènes, par des femmes docteurs en médecine est indispensable."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "donner la même instruction qu'aux futurs médecins indigènes, par des",
+    "contexte_apres_10_tokens": "docteurs en médecine est indispensable. C'est v le seul vrai",
+    "phrase_complete": "A côté du toubib, il y a la matrone ignorante et dangereuse qui seule conservera le privilège d'approcher la femme malade 'lui faire donner la même instruction qu'aux futurs médecins indigènes, par des (femme)s docteurs en médecine est indispensable."
+  },
+  {
+    "figure_feminine": "indigènes",
+    "contexte_avant_10_tokens": "malade 'lui faire donner la même instruction qu'aux futurs médecins",
+    "contexte_apres_10_tokens": "par des femmes docteurs en médecine est indispensable. C'est v",
+    "phrase_complete": "A côté du toubib, il y a la matrone ignorante et dangereuse qui seule conservera le privilège d'approcher la femme malade 'lui faire donner la même instruction qu'aux futurs médecins (indigènes), par des femmes docteurs en médecine est indispensable."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "donner la même instruction qu'aux futurs médecins indigènes, par des",
+    "contexte_apres_10_tokens": "docteurs en médecine est indispensable. C'est v le seul vrai",
+    "phrase_complete": "A côté du toubib, il y a la matrone ignorante et dangereuse qui seule conservera le privilège d'approcher la femme malade 'lui faire donner la même instruction qu'aux futurs médecins indigènes, par des (femmes) docteurs en médecine est indispensable."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "difficultés qui me préoccupait le plus; en effe t, les",
+    "contexte_apres_10_tokens": "chaouïas sont rarement en contact avec des Français~ et il",
+    "phrase_complete": "Ainsi était levée l'une des difficultés qui me préoccupait le plus; en effe t, les (femme)s chaouïas sont rarement en contact avec des Français~ et il me fallait de toute nécessité un interprète féminin qui put converser librement avec les femmes que j'allais interroger et me rapporter fidèlement ses entretiens."
+  },
+  {
+    "figure_feminine": "arabe",
+    "contexte_avant_10_tokens": "cours de route, le dialecte chaouïa,très différent de la langue",
+    "contexte_apres_10_tokens": "Ainsi était levée l'une des difficultés qui me préoccupait le",
+    "phrase_complete": "C'est tout d'abord à la complaisance de M. Dieudonné que je dus de me procurer une femme interprète qui traduisit, en cours de route, le dialecte chaouïa,très différent de la langue (arabe)."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "nécessité un interprète féminin qui put converser librement avec les",
+    "contexte_apres_10_tokens": "que j'allais interroger et me rapporter fidèlement ses entretiens. Mon",
+    "phrase_complete": "Ainsi était levée l'une des difficultés qui me préoccupait le plus; en effe t, les femmes chaouïas sont rarement en contact avec des Français~ et il me fallait de toute nécessité un interprète féminin qui put converser librement avec les (femmes) que j'allais interroger et me rapporter fidèlement ses entretiens."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "plus grands services, me traduisant exactement lesréponses que faisaient les",
+    "contexte_apres_10_tokens": "a mes interrogations ot m'apportant en outre te concours inteltigtnt",
+    "phrase_complete": "Elle m'a rendu les plus grands services, me traduisant exactement lesréponses que faisaient les (femmes) a mes interrogations ot m'apportant en outre te concours inteltigtnt de ses soins auprès des malades que j'ai traités pendant ma tournée."
+  },
+  {
+    "figure_feminine": "jeune fille",
+    "contexte_avant_10_tokens": "j'allais interroger et me rapporter fidèlement ses entretiens. Mon interprète.,",
+    "contexte_apres_10_tokens": "de dix-sept-ans, est la fille d'uu marabout d'El-Madher, sa mère",
+    "phrase_complete": ", (jeune fille) de dix-sept-ans, est la fille d'uu marabout d'El-Madher, sa mère est chaouïa elle a été élevée dans une fenne française où travailïatt son père, et elle a fréqueuté l'école du village pendant six à sept ans."
+  },
+  {
+    "figure_feminine": "fille de dix-sept-ans",
+    "contexte_avant_10_tokens": "interroger et me rapporter fidèlement ses entretiens. Mon interprète., jeune",
+    "contexte_apres_10_tokens": "est la fille d'uu marabout d'El-Madher, sa mère est chaouïa",
+    "phrase_complete": ", jeune (fille de dix-sept-ans), est la fille d'uu marabout d'El-Madher, sa mère est chaouïa elle a été élevée dans une fenne française où travailïatt son père, et elle a fréqueuté l'école du village pendant six à sept ans."
+  },
+  {
+    "figure_feminine": "fille d'uu marabout d'El-Madher",
+    "contexte_avant_10_tokens": "ses entretiens. Mon interprète., jeune fille de dix-sept-ans, est la",
+    "contexte_apres_10_tokens": "sa mère est chaouïa elle a été élevée dans une",
+    "phrase_complete": ", jeune fille de dix-sept-ans, est la (fille d'uu marabout d'El-Madher), sa mère est chaouïa elle a été élevée dans une fenne française où travailïatt son père, et elle a fréqueuté l'école du village pendant six à sept ans."
+  },
+  {
+    "figure_feminine": "mère",
+    "contexte_avant_10_tokens": "fille de dix-sept-ans, est la fille d'uu marabout d'El-Madher, sa",
+    "contexte_apres_10_tokens": "est chaouïa elle a été élevée dans une fenne française",
+    "phrase_complete": ", jeune fille de dix-sept-ans, est la fille d'uu marabout d'El-Madher, sa (mère) est chaouïa elle a été élevée dans une fenne française où travailïatt son père, et elle a fréqueuté l'école du village pendant six à sept ans."
+  },
+  {
+    "figure_feminine": "française",
+    "contexte_avant_10_tokens": "mère est chaouïa elle a été élevée dans une fenne",
+    "contexte_apres_10_tokens": "où travailïatt son père, et elle a fréqueuté l'école du",
+    "phrase_complete": ", jeune fille de dix-sept-ans, est la fille d'uu marabout d'El-Madher, sa mère est chaouïa elle a été élevée dans une fenne (française) où travailïatt son père, et elle a fréqueuté l'école du village pendant six à sept ans."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "plus grands services, me traduisant exactement lesréponses que faisaient les",
+    "contexte_apres_10_tokens": "a mes interrogations ot m'apportant en outre te concours inteltigtnt",
+    "phrase_complete": "Elle m'a rendu les plus grands services, me traduisant exactement lesréponses que faisaient les (femmes) a mes interrogations ot m'apportant en outre te concours inteltigtnt de ses soins auprès des malades que j'ai traités pendant ma tournée."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "gourbi que je donne ma première consultation je vois des",
+    "contexte_apres_10_tokens": "et des enfants, j'en visite une vingtaine et donne mes",
+    "phrase_complete": "C'est dans un gourbi que je donne ma première consultation je vois des (femmes) et des enfants, j'en visite une vingtaine et donne mes soins à treize que je reconnais être effectivement malades."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "gourbi que je donne ma première consultation je vois des",
+    "contexte_apres_10_tokens": "et des enfants, j'en visite une vingtaine et donne mes",
+    "phrase_complete": "C'est dans un gourbi que je donne ma première consultation je vois des (femmes) et des enfants, j'en visite une vingtaine et donne mes soins à treize que je reconnais être effectivement malades."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "un voyage d'études portant sur les maladies spéciales a la",
+    "contexte_apres_10_tokens": "et sur les pratiq~e~ indigènes de l'accouchement, je ne prévoyais",
+    "phrase_complete": "Mon voyage devait être seulement un voyage d'études portant sur les maladies spéciales a la (femme) et sur les pratiq~e~ indigènes de l'accouchement, je ne prévoyais pas que j'aurais a donner des soins aussi variés que ceux que je fus appelée par la suite à prodiguer."
+  },
+  {
+    "figure_feminine": "jeune fille",
+    "contexte_avant_10_tokens": "pulmonaire. une rougeole, des kérato-conjonctivites, un cas d'anémie chez une",
+    "contexte_apres_10_tokens": "Jp n'avais pas encore de médicaments. Mon voyage devait être",
+    "phrase_complete": "une rougeole, des kérato-conjonctivites, un cas d'anémie chez une (jeune fille)."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "un voyage d'études portant sur les maladies spéciales a la",
+    "contexte_apres_10_tokens": "et sur les pratiq~e~ indigènes de l'accouchement, je ne prévoyais",
+    "phrase_complete": "Mon voyage devait être seulement un voyage d'études portant sur les maladies spéciales a la (femme) et sur les pratiq~e~ indigènes de l'accouchement, je ne prévoyais pas que j'aurais a donner des soins aussi variés que ceux que je fus appelée par la suite à prodiguer."
+  },
+  {
+    "figure_feminine": "indigènes",
+    "contexte_avant_10_tokens": "les maladies spéciales a la femme et sur les pratiq~e~",
+    "contexte_apres_10_tokens": "de l'accouchement, je ne prévoyais pas que j'aurais a donner",
+    "phrase_complete": "Mon voyage devait être seulement un voyage d'études portant sur les maladies spéciales a la femme et sur les pratiq~e~ (indigènes) de l'accouchement, je ne prévoyais pas que j'aurais a donner des soins aussi variés que ceux que je fus appelée par la suite à prodiguer."
+  },
+  {
+    "figure_feminine": "indigènes",
+    "contexte_avant_10_tokens": "est remarquer que cette croyance est très répandue chez les",
+    "contexte_apres_10_tokens": "et que nombre de fois on est obtige de tes",
+    "phrase_complete": "C'est là le' point terminus de la route, d'ailleurs a peine carrossable il faut se résigner à prendre les (t) ti est remarquer que cette croyance est très répandue chez les (indigènes) et que nombre de fois on est obtige de tes dissuader."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "ceque la loi musu~ane, ne voulant pas que l'enfant d'une",
+    "contexte_apres_10_tokens": "djvorceeqûiest devenueenceinte en dehors du mariage soit privé de pore,",
+    "phrase_complete": "Cette croyance vient de ceque la loi musu~ane, ne voulant pas que l'enfant d'une (femme) djvorceeqûiest devenueenceinte en dehors du mariage soit privé de pore, attribue la paternité au dernier époux."
+  },
+  {
+    "figure_feminine": "mère",
+    "contexte_avant_10_tokens": "le «Bou-Rëqoud», enfant qui dort dans le sein de ta",
+    "contexte_apres_10_tokens": "(2) Le mechouï est un mouton ou un agneau rôti",
+    "phrase_complete": "C'est ce qu'on appelle le «Bou-Rëqoud», enfant qui dort dans le sein de ta (mère)."
+  },
+  {
+    "figure_feminine": "élève",
+    "contexte_avant_10_tokens": "étonné et surpris de trouver dans cas montagnes où ne",
+    "contexte_apres_10_tokens": "aucune habitation européenne, une maison d'hospitalisation aussi vaste et d'une",
+    "phrase_complete": "Tout d'abord, on est a la fois étonné et surpris de trouver dans cas montagnes où ne s'(élève) aucune habitation européenne, une maison d'hospitalisation aussi vaste et d'une installation aussi complète."
+  },
+  {
+    "figure_feminine": "européenne",
+    "contexte_avant_10_tokens": "de trouver dans cas montagnes où ne s'élève aucune habitation",
+    "contexte_apres_10_tokens": "une maison d'hospitalisation aussi vaste et d'une installation aussi complète.",
+    "phrase_complete": "Tout d'abord, on est a la fois étonné et surpris de trouver dans cas montagnes où ne s'élève aucune habitation (européenne), une maison d'hospitalisation aussi vaste et d'une installation aussi complète."
+  },
+  {
+    "figure_feminine": "sœurs",
+    "contexte_avant_10_tokens": "Elles ne sont pas encore complètement achevées, et cependant les",
+    "contexte_apres_10_tokens": "doivent arriver le 12 juin, jour de l'inauguration projetée de",
+    "phrase_complete": "Elles ne sont pas encore complètement achevées, et cependant les (sœurs) doivent arriver le 12 juin, jour de l'inauguration projetée de l'hôpital."
+  },
+  {
+    "figure_feminine": "indigène",
+    "contexte_avant_10_tokens": "doit être construit pour le médecin qui sera, parait-il, un",
+    "contexte_apres_10_tokens": "C'est le lendemain de notre arrivée, le dimanche 12 mai,",
+    "phrase_complete": "Un bâtiment isolé doit être construit pour le médecin qui sera, parait-il, un (indigène)."
+  },
+  {
+    "figure_feminine": "sœurs",
+    "contexte_avant_10_tokens": "Elles ne sont pas encore complètement achevées, et cependant les",
+    "contexte_apres_10_tokens": "doivent arriver le 12 juin, jour de l'inauguration projetée de",
+    "phrase_complete": "Elles ne sont pas encore complètement achevées, et cependant les (sœurs) doivent arriver le 12 juin, jour de l'inauguration projetée de l'hôpital."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "la malaria avec ses accès francs et dans sa (t~Les",
+    "contexte_apres_10_tokens": "qui sont atteintes de maladies nécessitant plùs qu'un examen sommaire",
+    "phrase_complete": "Les femmes passent d'abord (1) un carcimone stomacal, une entérite, des douleurs rhumathoides, des gastrites,trois hernies ombilicales, un cas d'hystérie, du prurigo, de la malaria avec ses accès francs et dans sa (t~Les (femmes) qui sont atteintes de maladies nécessitant plùs qu'un examen sommaire restent seules avec moi."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "Arris que j'ai l'occasion d'interroger pour ta première fois les",
+    "contexte_apres_10_tokens": "chaouïas sur les pratiques de l'accouchement, sur celles de l'avortement",
+    "phrase_complete": "C'est a Arris que j'ai l'occasion d'interroger pour ta première fois les (femmes) chaouïas sur les pratiques de l'accouchement, sur celles de l'avortement et sur la fréquence des maladies utérines, toutes questions dont j'aurai occasion de parler plus tard."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "Arris que j'ai l'occasion d'interroger pour ta première fois les",
+    "contexte_apres_10_tokens": "chaouïas sur les pratiques de l'accouchement, sur celles de l'avortement",
+    "phrase_complete": "C'est a Arris que j'ai l'occasion d'interroger pour ta première fois les (femmes) chaouïas sur les pratiques de l'accouchement, sur celles de l'avortement et sur la fréquence des maladies utérines, toutes questions dont j'aurai occasion de parler plus tard."
+  },
+  {
+    "figure_feminine": "arabes",
+    "contexte_avant_10_tokens": "me repose et que nous prenons notre repas, composé démets",
+    "contexte_apres_10_tokens": "offerts par lecheick, et de mets français préparés par le",
+    "phrase_complete": "C'est là que je me repose et que nous prenons notre repas, composé démets (arabes) offerts par lecheick, et de mets français préparés par le de ira (cavalier de la commune), qui nous sert de cuisinier."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "tente, elles l'envahissent, y répandant une odeur parfois insupportable. Quarante",
+    "contexte_apres_10_tokens": "et enfants dénièrent devant mois vingt-et-Une seulement furent reconnues véritablement",
+    "phrase_complete": "Quarante (femmes) et enfants dénièrent devant mois vingt-et-Une seulement furent reconnues véritablement malades."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "tente, elles l'envahissent, y répandant une odeur parfois insupportable. Quarante",
+    "contexte_apres_10_tokens": "et enfants dénièrent devant mois vingt-et-Une seulement furent reconnues véritablement",
+    "phrase_complete": "Quarante (femmes) et enfants dénièrent devant mois vingt-et-Une seulement furent reconnues véritablement malades."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "Elle semble plutôt, si j'ose dire, être la fille d'une",
+    "contexte_apres_10_tokens": "chaouïa et d'un européen D'une haute stature et d'un port",
+    "phrase_complete": "Elle semble plutôt, si j'ose dire, être la fille d'une (femme) chaouïa et d'un européen D'une haute stature et d'un port très noble, elle & des épaules et des bras d~une ligne parfaite."
+  },
+  {
+    "figure_feminine": "reine",
+    "contexte_avant_10_tokens": "conjonctivites granuleuses. Je reçois à Daali une visite inattendue, La",
+    "contexte_apres_10_tokens": "de l'Aurès est venue nous voir, non comme malade, mais",
+    "phrase_complete": "Je reçois à Daali une visite inattendue, La (reine) de l'Aurès est venue nous voir, non comme malade, mais en visiteuse, attirée par la curiosité de voir une femme médecin."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "une statue. Son costume qui rappelle celui de toutes les",
+    "contexte_apres_10_tokens": "de l'Aurès, mais singulièrement plus riche, ajoute encore à sa",
+    "phrase_complete": "Son costume qui rappelle celui de toutes les (femme)s de l'Aurès, mais singulièrement plus riche, ajoute encore à sa beauté."
+  },
+  {
+    "figure_feminine": "fille d'une femme chaouïa",
+    "contexte_avant_10_tokens": "RM&chaouia pure. Elle semble plutôt, si j'ose dire, être la",
+    "contexte_apres_10_tokens": "et d'un européen D'une haute stature et d'un port très",
+    "phrase_complete": "Elle semble plutôt, si j'ose dire, être la (fille d'une femme chaouïa) et d'un européen D'une haute stature et d'un port très noble, elle & des épaules et des bras d~une ligne parfaite."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "et aux chevilles complètent la toilette. Tous les bijoux des",
+    "contexte_apres_10_tokens": "de l'Aurès sont en argent et la femme pauvre comme",
+    "phrase_complete": "Tous les bijoux des (femmes) de l'Aurès sont en argent et la femme pauvre comme la femme aisée, la femme jeune comme la femme vieille porte ces bijoux plus ou moins nombreux suivant leur condition."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "et aux chevilles complètent la toilette. Tous les bijoux des",
+    "contexte_apres_10_tokens": "de l'Aurès sont en argent et la femme pauvre comme",
+    "phrase_complete": "Tous les bijoux des (femmes) de l'Aurès sont en argent et la femme pauvre comme la femme aisée, la femme jeune comme la femme vieille porte ces bijoux plus ou moins nombreux suivant leur condition."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "et aux chevilles complètent la toilette. Tous les bijoux des",
+    "contexte_apres_10_tokens": "de l'Aurès sont en argent et la femme pauvre comme",
+    "phrase_complete": "Tous les bijoux des (femmes) de l'Aurès sont en argent et la femme pauvre comme la femme aisée, la femme jeune comme la femme vieille porte ces bijoux plus ou moins nombreux suivant leur condition."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "pauvre comme la femme aisée, la femme jeune comme la",
+    "contexte_apres_10_tokens": "vieille porte ces bijoux plus ou moins nombreux suivant leur",
+    "phrase_complete": "Tous les bijoux des femmes de l'Aurès sont en argent et la femme pauvre comme la femme aisée, la femme jeune comme la (femme) vieille porte ces bijoux plus ou moins nombreux suivant leur condition."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "pauvre comme la femme aisée, la femme jeune comme la",
+    "contexte_apres_10_tokens": "vieille porte ces bijoux plus ou moins nombreux suivant leur",
+    "phrase_complete": "Tous les bijoux des femmes de l'Aurès sont en argent et la femme pauvre comme la femme aisée, la femme jeune comme la (femme) vieille porte ces bijoux plus ou moins nombreux suivant leur condition."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "pauvre comme la femme aisée, la femme jeune comme la",
+    "contexte_apres_10_tokens": "vieille porte ces bijoux plus ou moins nombreux suivant leur",
+    "phrase_complete": "Tous les bijoux des femmes de l'Aurès sont en argent et la femme pauvre comme la femme aisée, la femme jeune comme la (femme) vieille porte ces bijoux plus ou moins nombreux suivant leur condition."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "pauvre comme la femme aisée, la femme jeune comme la",
+    "contexte_apres_10_tokens": "vieille porte ces bijoux plus ou moins nombreux suivant leur",
+    "phrase_complete": "Tous les bijoux des femmes de l'Aurès sont en argent et la femme pauvre comme la femme aisée, la femme jeune comme la (femme) vieille porte ces bijoux plus ou moins nombreux suivant leur condition."
+  },
+  {
+    "figure_feminine": "reine",
+    "contexte_avant_10_tokens": "suivant le fond de la vallée de l'Oued Abdi. La",
+    "contexte_apres_10_tokens": "de l'Aurès nous accompagne. Nous suivons de petits sentiers parfois",
+    "phrase_complete": "La (reine) de l'Aurès nous accompagne."
+  },
+  {
+    "figure_feminine": "reine",
+    "contexte_avant_10_tokens": "suivant le fond de la vallée de l'Oued Abdi. La",
+    "contexte_apres_10_tokens": "de l'Aurès nous accompagne. Nous suivons de petits sentiers parfois",
+    "phrase_complete": "La (reine) de l'Aurès nous accompagne."
+  },
+  {
+    "figure_feminine": "mariée",
+    "contexte_avant_10_tokens": "leur condition. La reine de l'Aurès (reine galante), a été",
+    "contexte_apres_10_tokens": "à douze ans à un cheik. Elle a ensuite divorcé",
+    "phrase_complete": "La reine de l'Aurès (reine galante), a été (mariée) à douze ans à un cheik."
+  },
+  {
+    "figure_feminine": "fille",
+    "contexte_avant_10_tokens": "ensuite divorcé pour se remarier deux fois.,Maintenant elle est Azria",
+    "contexte_apres_10_tokens": "galante), condition qu'elle préfère sans doute aux précédentes, car elle",
+    "phrase_complete": ",Maintenant elle est Azria ((fille) galante), condition qu'elle préfère sans doute aux précédentes, car elle a refusé plusieurs fois de prendre un quatrième mari."
+  },
+  {
+    "figure_feminine": "indigènes",
+    "contexte_avant_10_tokens": "la fin de ma mission. Après avoir été salués parles",
+    "contexte_apres_10_tokens": "et accompagnés par le cheik, nous quittons Baali nous dirigeant",
+    "phrase_complete": "Après avoir été salués parles (indigènes) et accompagnés par le cheik, nous quittons Baali nous dirigeant vers Chir en suivant le fond de la vallée de l'Oued Abdi."
+  },
+  {
+    "figure_feminine": "reine",
+    "contexte_avant_10_tokens": "suivant le fond de la vallée de l'Oued Abdi. La",
+    "contexte_apres_10_tokens": "de l'Aurès nous accompagne. Nous suivons de petits sentiers parfois",
+    "phrase_complete": "La (reine) de l'Aurès nous accompagne."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "visités. J'avais vu soixante-dix consultants et j'avais reconnu malades quarante-six",
+    "contexte_apres_10_tokens": "et enfants et sept hommes. Pendant ce tempss ur la",
+    "phrase_complete": "J'avais vu soixante-dix consultants et j'avais reconnu malades quarante-six (femmes) et enfants et sept hommes."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "visités. J'avais vu soixante-dix consultants et j'avais reconnu malades quarante-six",
+    "contexte_apres_10_tokens": "et enfants et sept hommes. Pendant ce tempss ur la",
+    "phrase_complete": "J'avais vu soixante-dix consultants et j'avais reconnu malades quarante-six (femmes) et enfants et sept hommes."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "vaque aux soins du ménage, d'ailleurs assez rudimentaire. Chez la",
+    "contexte_apres_10_tokens": "chaouia, le ventre distendu et que rien ne soutient est",
+    "phrase_complete": "Chez la (femme) chaouia, le ventre distendu et que rien ne soutient est presque toujours flétri lorsqu'ellea eu des enfants."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "se faire, on fait avaler du beurre fondu à la",
+    "contexte_apres_10_tokens": "en douleurs, afin dit-on de faciliter le glissement.» Si, par",
+    "phrase_complete": "Si l'expulsion tarde à se faire, on fait avaler du beurre fondu à la (femme) en douleurs, afin dit-on de faciliter le glissement."
+  },
+  {
+    "figure_feminine": "matrone",
+    "contexte_avant_10_tokens": "partie supérieure du gourbi. Quand la période d'expulsion arrive, la",
+    "contexte_apres_10_tokens": "placée en arrière de la parturieute, la secoue, a~ dit-elle",
+    "phrase_complete": "Quand la période d'expulsion arrive, la (matrone) placée en arrière de la parturieute, la secoue, a~ dit-elle que «l'expulsion se fasse plus rapidement."
+  },
+  {
+    "figure_feminine": "matrone",
+    "contexte_avant_10_tokens": "partie supérieure du gourbi. Quand la période d'expulsion arrive, la",
+    "contexte_apres_10_tokens": "placée en arrière de la parturieute, la secoue, a~ dit-elle",
+    "phrase_complete": "Quand la période d'expulsion arrive, la (matrone) placée en arrière de la parturieute, la secoue, a~ dit-elle que «l'expulsion se fasse plus rapidement."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "et le mécanisme précité se produit. Ou bien encore, la",
+    "contexte_apres_10_tokens": "est mise debout, le bassin néchi sur les cuises à",
+    "phrase_complete": "Ou bien encore, la (femme) est mise debout, le bassin néchi sur les cuises à l'aide d'un bâton auquel on imprime des mouvements de va et vient, on frotte la la partie inférieure du ventre, celle qui répond à l'utérus."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "et le mécanisme précité se produit. Ou bien encore, la",
+    "contexte_apres_10_tokens": "est mise debout, le bassin néchi sur les cuises à",
+    "phrase_complete": "Ou bien encore, la (femme) est mise debout, le bassin néchi sur les cuises à l'aide d'un bâton auquel on imprime des mouvements de va et vient, on frotte la la partie inférieure du ventre, celle qui répond à l'utérus."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "suprême ressource et si l'hémorrhagie ne s'arrête pas spontanément, la",
+    "contexte_apres_10_tokens": "est emportée. Dans le cas où le placenta reste dans",
+    "phrase_complete": "C'est la suprême ressource et si l'hémorrhagie ne s'arrête pas spontanément, la (femme) est emportée."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "Il ne faut plus que la maternité soit pour les",
+    "contexte_apres_10_tokens": "de ces régions un dangertrès souvent mortel, alors qu'une intervention",
+    "phrase_complete": "Il ne faut plus que la maternité soit pour les (femme)s de ces régions un dangertrès souvent mortel, alors qu'une intervention intelligente, pourrait sauver a la fois l'accouchée et l'enfant qu'elle vient de mettre au monde."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "Il ne faut plus que la maternité soit pour les",
+    "contexte_apres_10_tokens": "de ces régions un dangertrès souvent mortel, alors qu'une intervention",
+    "phrase_complete": "Il ne faut plus que la maternité soit pour les (femme)s de ces régions un dangertrès souvent mortel, alors qu'une intervention intelligente, pourrait sauver a la fois l'accouchée et l'enfant qu'elle vient de mettre au monde."
+  },
+  {
+    "figure_feminine": "matrone",
+    "contexte_avant_10_tokens": "on ne procède a aucun lavage des parties génitales. La",
+    "contexte_apres_10_tokens": "saisit une des jambes de l'accouchée, place son pied sur",
+    "phrase_complete": "La (matrone) saisit une des jambes de l'accouchée, place son pied sur les parties gérutale."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "Il ne faut plus que la maternité soit pour les",
+    "contexte_apres_10_tokens": "de ces régions un dangertrès souvent mortel, alors qu'une intervention",
+    "phrase_complete": "Il ne faut plus que la maternité soit pour les (femme)s de ces régions un dangertrès souvent mortel, alors qu'une intervention intelligente, pourrait sauver a la fois l'accouchée et l'enfant qu'elle vient de mettre au monde."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "sont déplacés pendant la grossesse» puis les cuisses de la",
+    "contexte_apres_10_tokens": "sont rapprochées et du massage est fait sur toutes les",
+    "phrase_complete": "Cette méthode est destinée, parait-il, a «remettreen place les os qui se sont déplacés pendant la grossesse» puis les cuisses de la (femme) sont rapprochées et du massage est fait sur toutes les parties du corps."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "sont déplacés pendant la grossesse» puis les cuisses de la",
+    "contexte_apres_10_tokens": "sont rapprochées et du massage est fait sur toutes les",
+    "phrase_complete": "Cette méthode est destinée, parait-il, a «remettreen place les os qui se sont déplacés pendant la grossesse» puis les cuisses de la (femme) sont rapprochées et du massage est fait sur toutes les parties du corps."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "sont déplacés pendant la grossesse» puis les cuisses de la",
+    "contexte_apres_10_tokens": "sont rapprochées et du massage est fait sur toutes les",
+    "phrase_complete": "Cette méthode est destinée, parait-il, a «remettreen place les os qui se sont déplacés pendant la grossesse» puis les cuisses de la (femme) sont rapprochées et du massage est fait sur toutes les parties du corps."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "mère ne lui permet pas de l'allaiter, ce sont les",
+    "contexte_apres_10_tokens": "de la bêchera (village), qui le nourrissent. Vers deux mois",
+    "phrase_complete": "Los soins qui sont donnés au nouveau-né sont les suivants Enduit de beurre fondu avec du sel, il est mis au sein uue heure environ après sa naissance, si l'état de la mère ne lui permet pas de l'allaiter, ce sont les (femmes) de la bêchera (village), qui le nourrissent."
+  },
+  {
+    "figure_feminine": "matrone",
+    "contexte_avant_10_tokens": "on ne procède a aucun lavage des parties génitales. La",
+    "contexte_apres_10_tokens": "saisit une des jambes de l'accouchée, place son pied sur",
+    "phrase_complete": "La (matrone) saisit une des jambes de l'accouchée, place son pied sur les parties gérutale."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "n'en souffre pas et un mois après son mariage,la jeune",
+    "contexte_apres_10_tokens": "«devient grasse comme une mule». Le plus souventla grossesse arrive",
+    "phrase_complete": "Il ne s'en suivrait aucune conséquence fâcheuse quelquefois seulement une hémorrhagie assez considérable se produit, due sans doute à une déchirure dépassant l'hymen et empiétant sur le périué mais elle n'en souffre pas et un mois après son mariage,la jeune (femme) «devient grasse comme une mule»."
+  },
+  {
+    "figure_feminine": "mère",
+    "contexte_avant_10_tokens": "uue heure environ après sa naissance, si l'état de la",
+    "contexte_apres_10_tokens": "ne lui permet pas de l'allaiter, ce sont les femmes",
+    "phrase_complete": "Los soins qui sont donnés au nouveau-né sont les suivants Enduit de beurre fondu avec du sel, il est mis au sein uue heure environ après sa naissance, si l'état de la (mère) ne lui permet pas de l'allaiter, ce sont les femmes de la bêchera (village), qui le nourrissent."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "Messaoud Am'ri, la matrone, sur les divers procédés que les",
+    "contexte_apres_10_tokens": "emploient pour se faire avorter. Elle me répond tout d'abord",
+    "phrase_complete": "J'interroge ensuite Mekdour Hmama bent el Messaoud Am'ri, la matrone, sur les divers procédés que les (femmes) emploient pour se faire avorter."
+  },
+  {
+    "figure_feminine": "fille",
+    "contexte_avant_10_tokens": "sont fréquentes. La mortalité est grande chez les enfants. La",
+    "contexte_apres_10_tokens": "chaouïa est mariée vers douze ans, et, qu'elle soit nubile",
+    "phrase_complete": "La (fille) chaouïa est mariée vers douze ans, et, qu'elle soit nubile ou non, m'a-t-on siHrmé à Ménaâ, elle subit les approches du mari."
+  },
+  {
+    "figure_feminine": "mariée",
+    "contexte_avant_10_tokens": "mortalité est grande chez les enfants. La fille chaouïa est",
+    "contexte_apres_10_tokens": "vers douze ans, et, qu'elle soit nubile ou non, m'a-t-on",
+    "phrase_complete": "La fille chaouïa est (mariée) vers douze ans, et, qu'elle soit nubile ou non, m'a-t-on siHrmé à Ménaâ, elle subit les approches du mari."
+  },
+  {
+    "figure_feminine": "jeune femme",
+    "contexte_avant_10_tokens": "elle n'en souffre pas et un mois après son mariage,la",
+    "contexte_apres_10_tokens": "«devient grasse comme une mule». Le plus souventla grossesse arrive",
+    "phrase_complete": "Il ne s'en suivrait aucune conséquence fâcheuse quelquefois seulement une hémorrhagie assez considérable se produit, due sans doute à une déchirure dépassant l'hymen et empiétant sur le périué mais elle n'en souffre pas et un mois après son mariage,la (jeune femme) «devient grasse comme une mule»."
+  },
+  {
+    "figure_feminine": "matrone",
+    "contexte_avant_10_tokens": "immédiatement. J'interroge ensuite Mekdour Hmama bent el Messaoud Am'ri, la",
+    "contexte_apres_10_tokens": "sur les divers procédés que les femmes emploient pour se",
+    "phrase_complete": "J'interroge ensuite Mekdour Hmama bent el Messaoud Am'ri, la (matrone), sur les divers procédés que les femmes emploient pour se faire avorter."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "dissolues. C'est dans le début de la grossesse que les",
+    "contexte_apres_10_tokens": "sa font avorter. Elles disent qu'il n'y a pas crime",
+    "phrase_complete": "C'est dans le début de la grossesse que les (femmes) sa font avorter."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "pouvoir afïu'mer que les maladies utérines sont rares chez les",
+    "contexte_apres_10_tokens": "de l'Aurès, d'après les témoignages que j'ai pu recueillir et",
+    "phrase_complete": "Je crois pouvoir afïu'mer que les maladies utérines sont rares chez les (femmes) de l'Aurès, d'après les témoignages que j'ai pu recueillir et d'après mes propres observations."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "pouvoir afïu'mer que les maladies utérines sont rares chez les",
+    "contexte_apres_10_tokens": "de l'Aurès, d'après les témoignages que j'ai pu recueillir et",
+    "phrase_complete": "Je crois pouvoir afïu'mer que les maladies utérines sont rares chez les (femmes) de l'Aurès, d'après les témoignages que j'ai pu recueillir et d'après mes propres observations."
+  },
+  {
+    "figure_feminine": "kabyles",
+    "contexte_avant_10_tokens": "que du. sons-chlorure de mercure que viennent leur vendre les",
+    "contexte_apres_10_tokens": "marchands qui parcourent la région. A la suite de l'absorption",
+    "phrase_complete": "sons-chlorure de mercure que viennent leur vendre les (kabyles) marchands qui parcourent la région."
+  },
+  {
+    "figure_feminine": "jeune femme",
+    "contexte_avant_10_tokens": "le village qui vient après Chir, j'ai su qu'une toute",
+    "contexte_apres_10_tokens": "était morte après l'absorption d'une infusion de laurier-rosé qu'elle avait",
+    "phrase_complete": "A Menaa, le village qui vient après Chir, j'ai su qu'une toute (jeune femme) était morte après l'absorption d'une infusion de laurier-rosé qu'elle avait prise après avoir vainement essayé les autres moyens habituels."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "est presque toujours la conséquence de l'infection puerpérale chez les",
+    "contexte_apres_10_tokens": "La mortalité des femmes en couches est grande. La. mortalité",
+    "phrase_complete": "Elles n'existent pour ainsi dire pas ou très rarement pouf l'excellente raison que la mort est presque toujours la conséquence de l'infection puerpérale chez les (femmes)indigènes."
+  },
+  {
+    "figure_feminine": "religieuse",
+    "contexte_avant_10_tokens": "Chez les musulmans les ablutions sont imposées par la loi",
+    "contexte_apres_10_tokens": "la verge, débarrassée des sécrétions, des souillures contenant un plus",
+    "phrase_complete": "Chez les musulmans les ablutions sont imposées par la loi (religieuse) la verge, débarrassée des sécrétions, des souillures contenant un plus ou moins grand nombre de microbes n'apporte pas dans les voies génitaies de la femme d'agents de contamination."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "de la main à la rechel ch'e du placenta une",
+    "contexte_apres_10_tokens": "pourrait être sauvée, n'est-il pas déplorable de la voir succomber",
+    "phrase_complete": "t Ainsi que je l'ai déjà dit, on n'emploie jamais de maneuvres manuelles, et quand par une simple introduction de la main à la rechel ch'e du placenta une (femme) pourrait être sauvée, n'est-il pas déplorable de la voir succomber a cause de l'ignorance dans laquelle se trouve la matrone qui l'assiste?"
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "mortalité des femmes en couches est grande. La. mortalité des",
+    "contexte_apres_10_tokens": "atteintes d'infection puerpérale est presque constante. Et comment pourrait-il on",
+    "phrase_complete": "mortalité des (femmes) atteintes d'infection puerpérale est presque constante."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "mortalité des femmes en couches est grande. La. mortalité des",
+    "contexte_apres_10_tokens": "atteintes d'infection puerpérale est presque constante. Et comment pourrait-il on",
+    "phrase_complete": "mortalité des (femmes) atteintes d'infection puerpérale est presque constante."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "colonisation. Or, une remarque très judicieusement faite, établi que la",
+    "contexte_apres_10_tokens": "arabe est peut-être plus réfractaire que l'homme à l'assimilation. Il",
+    "phrase_complete": "Or, une remarque très judicieusement faite, établi que la (femme) arabe est peut-être plus réfractaire que l'homme à l'assimilation."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "colonisation. Or, une remarque très judicieusement faite, établi que la",
+    "contexte_apres_10_tokens": "arabe est peut-être plus réfractaire que l'homme à l'assimilation. Il",
+    "phrase_complete": "Or, une remarque très judicieusement faite, établi que la (femme) arabe est peut-être plus réfractaire que l'homme à l'assimilation."
+  },
+  {
+    "figure_feminine": "matrone",
+    "contexte_avant_10_tokens": "succomber a cause de l'ignorance dans laquelle se trouve la",
+    "contexte_apres_10_tokens": "qui l'assiste?3 Une véritable question d'humanité se pose et j'y",
+    "phrase_complete": "t Ainsi que je l'ai déjà dit, on n'emploie jamais de maneuvres manuelles, et quand par une simple introduction de la main à la rechel ch'e du placenta une femme pourrait être sauvée, n'est-il pas déplorable de la voir succomber a cause de l'ignorance dans laquelle se trouve la (matrone) qui l'assiste?"
+  },
+  {
+    "figure_feminine": "indigènes",
+    "contexte_avant_10_tokens": "clientèle et furent abandonnées.» Et cependant ajoute-t-il, vouloir amener les",
+    "contexte_apres_10_tokens": "à notre civilisation et en même temps les isoler des",
+    "phrase_complete": "» Et cependant ajoute-t-il, vouloir amener les (indigènes) à notre civilisation et en même temps les isoler des colons, et laisser leurs femmes sans instruction est la plus grande des erreurs."
+  },
+  {
+    "figure_feminine": "indigènes",
+    "contexte_avant_10_tokens": "clientèle et furent abandonnées.» Et cependant ajoute-t-il, vouloir amener les",
+    "contexte_apres_10_tokens": "à notre civilisation et en même temps les isoler des",
+    "phrase_complete": "» Et cependant ajoute-t-il, vouloir amener les (indigènes) à notre civilisation et en même temps les isoler des colons, et laisser leurs femmes sans instruction est la plus grande des erreurs."
+  },
+  {
+    "figure_feminine": "femme arabe",
+    "contexte_avant_10_tokens": "colonisation. Or, une remarque très judicieusement faite, établi que la",
+    "contexte_apres_10_tokens": "est peut-être plus réfractaire que l'homme à l'assimilation. Il y",
+    "phrase_complete": "Or, une remarque très judicieusement faite, établi que la (femme arabe) est peut-être plus réfractaire que l'homme à l'assimilation."
+  },
+  {
+    "figure_feminine": "indigènes",
+    "contexte_avant_10_tokens": "pour aider à l'assimilation que de placer auprès des femmes",
+    "contexte_apres_10_tokens": "des femmes médecins qui apporteraient un soulagement à leurs souffrances",
+    "phrase_complete": "» Et quel moyen plus' puissant y aurait-il pour aider à l'assimilation que de placer auprès des femmes (indigènes) des femmes médecins qui apporteraient un soulagement à leurs souffrances et les initieraient progressivement a tous les bienfaits de notre civilisation."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "à l'assimilation que de placer auprès des femmes indigènes des",
+    "contexte_apres_10_tokens": "médecins qui apporteraient un soulagement à leurs souffrances et les",
+    "phrase_complete": "» Et quel moyen plus' puissant y aurait-il pour aider à l'assimilation que de placer auprès des femmes indigènes des (femme)s médecins qui apporteraient un soulagement à leurs souffrances et les initieraient progressivement a tous les bienfaits de notre civilisation."
+  },
+  {
+    "figure_feminine": "indigènes",
+    "contexte_avant_10_tokens": "volonté et rendu le tempéramment docile. Faut-il ajouter que les",
+    "contexte_apres_10_tokens": "ne permettent jamais aux médecins hommes de visiter les parties",
+    "phrase_complete": "Faut-il ajouter que les (indigènes) ne permettent jamais aux médecins hommes de visiter les parties génitales de la femme."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "hommes de visiter les parties génitales de la femme. Les",
+    "contexte_apres_10_tokens": "seules peuvent les soigner et qu'ainsi, comme l'afïirme le lieutenant-colonel",
+    "phrase_complete": "Les (femmes) seules peuvent les soigner et qu'ainsi, comme l'afïirme le lieutenant-colonel Villot, ancien chef du bureau arabe, pour les causes qui viennent ~d'être sommairement exposées, des femmes docteurs en médecine et connaissant la langue arabe pourraient en Algérie, rendre de grands services."
+  },
+  {
+    "figure_feminine": "mère",
+    "contexte_avant_10_tokens": "leur tour au sein du foyer arabe, surtout à la",
+    "contexte_apres_10_tokens": "de famille, nos mœurs, nos habitudes, un commencement de progrès",
+    "phrase_complete": "Les matrones porteraient a leur tour au sein du foyer arabe, surtout à la (mère) de famille, nos mœurs, nos habitudes, un commencement de progrès qui serait d'autant plus volontiers accepté qu'on s'adresserait aux misères les plus grandes, celles qui touchent le plus la créature humaine la maladie."
+  },
+  {
+    "figure_feminine": "femmes indigènes",
+    "contexte_avant_10_tokens": "aurait-il pour aider à l'assimilation que de placer auprès des",
+    "contexte_apres_10_tokens": "des femmes médecins qui apporteraient un soulagement à leurs souffrances",
+    "phrase_complete": "» Et quel moyen plus' puissant y aurait-il pour aider à l'assimilation que de placer auprès des (femmes indigènes) des femmes médecins qui apporteraient un soulagement à leurs souffrances et les initieraient progressivement a tous les bienfaits de notre civilisation."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "hommes de visiter les parties génitales de la femme. Les",
+    "contexte_apres_10_tokens": "seules peuvent les soigner et qu'ainsi, comme l'afïirme le lieutenant-colonel",
+    "phrase_complete": "Les (femmes) seules peuvent les soigner et qu'ainsi, comme l'afïirme le lieutenant-colonel Villot, ancien chef du bureau arabe, pour les causes qui viennent ~d'être sommairement exposées, des femmes docteurs en médecine et connaissant la langue arabe pourraient en Algérie, rendre de grands services."
+  },
+  {
+    "figure_feminine": "matrones",
+    "contexte_avant_10_tokens": "pratique des accouchements,leur apprendre à soigner les petits enfants. Les",
+    "contexte_apres_10_tokens": "porteraient a leur tour au sein du foyer arabe, surtout",
+    "phrase_complete": "Les (matrones) porteraient a leur tour au sein du foyer arabe, surtout à la mère de famille, nos mœurs, nos habitudes, un commencement de progrès qui serait d'autant plus volontiers accepté qu'on s'adresserait aux misères les plus grandes, celles qui touchent le plus la créature humaine la maladie."
+  },
+  {
+    "figure_feminine": "matrones",
+    "contexte_avant_10_tokens": "pratique des accouchements,leur apprendre à soigner les petits enfants. Les",
+    "contexte_apres_10_tokens": "porteraient a leur tour au sein du foyer arabe, surtout",
+    "phrase_complete": "Les (matrones) porteraient a leur tour au sein du foyer arabe, surtout à la mère de famille, nos mœurs, nos habitudes, un commencement de progrès qui serait d'autant plus volontiers accepté qu'on s'adresserait aux misères les plus grandes, celles qui touchent le plus la créature humaine la maladie."
+  },
+  {
+    "figure_feminine": "arabe",
+    "contexte_avant_10_tokens": "imposer notre croyance. C'est le seul vrai moyen de gagner",
+    "contexte_apres_10_tokens": "à notre cau~e. La matrone de Chir est une femme",
+    "phrase_complete": "C'est le seul vrai moyen de gagner l'(arabe) à notre cau~e."
+  },
+  {
+    "figure_feminine": "mère de famille",
+    "contexte_avant_10_tokens": "leur tour au sein du foyer arabe, surtout à la",
+    "contexte_apres_10_tokens": "nos mœurs, nos habitudes, un commencement de progrès qui serait",
+    "phrase_complete": "Les matrones porteraient a leur tour au sein du foyer arabe, surtout à la (mère de famille), nos mœurs, nos habitudes, un commencement de progrès qui serait d'autant plus volontiers accepté qu'on s'adresserait aux misères les plus grandes, celles qui touchent le plus la créature humaine la maladie."
+  },
+  {
+    "figure_feminine": "indigènes",
+    "contexte_avant_10_tokens": "volonté et rendu le tempéramment docile. Faut-il ajouter que les",
+    "contexte_apres_10_tokens": "ne permettent jamais aux médecins hommes de visiter les parties",
+    "phrase_complete": "Faut-il ajouter que les (indigènes) ne permettent jamais aux médecins hommes de visiter les parties génitales de la femme."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "l'arabe à notre cau~e. La matrone de Chir est une",
+    "contexte_apres_10_tokens": "extraordinairement intelligente, fort considéréedans le pays où elle est consultée",
+    "phrase_complete": "La matrone de Chir est une (femme) extraordinairement intelligente, fort considéréedans le pays où elle est consultée par le cadi dans bien des cas."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "Les Anglais ont créé aux Indes des hôpitaux pour les",
+    "contexte_apres_10_tokens": "toujours dirigés par des doctoresses; mais ils mêlent à leur",
+    "phrase_complete": "Les Anglais ont créé aux Indes des hôpitaux pour les (femmes), toujours dirigés par des doctoresses; mais ils mêlent à leur humanitarisme et a leur désir d'assimilation, une préoccupation de prozélytisme religieux."
+  },
+  {
+    "figure_feminine": "arabe",
+    "contexte_avant_10_tokens": "imposer notre croyance. C'est le seul vrai moyen de gagner",
+    "contexte_apres_10_tokens": "à notre cau~e. La matrone de Chir est une femme",
+    "phrase_complete": "C'est le seul vrai moyen de gagner l'(arabe) à notre cau~e."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "chez le cheik et avoir donné des soins a ses",
+    "contexte_apres_10_tokens": "Nous traversons la plus jolie partie de l'étroite vallée de",
+    "phrase_complete": "Le 15, à onze heures et demie, nous quittons Chir non sans nous rendre chez le cheik et avoir donné des soins a ses (femmes)."
+  },
+  {
+    "figure_feminine": "arabe",
+    "contexte_avant_10_tokens": "imposer notre croyance. C'est le seul vrai moyen de gagner",
+    "contexte_apres_10_tokens": "à notre cau~e. La matrone de Chir est une femme",
+    "phrase_complete": "C'est le seul vrai moyen de gagner l'(arabe) à notre cau~e."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "chez le cheik et avoir donné des soins a ses",
+    "contexte_apres_10_tokens": "Nous traversons la plus jolie partie de l'étroite vallée de",
+    "phrase_complete": "Le 15, à onze heures et demie, nous quittons Chir non sans nous rendre chez le cheik et avoir donné des soins a ses (femmes)."
+  },
+  {
+    "figure_feminine": "indigène",
+    "contexte_avant_10_tokens": "en Algérie si nous arrivions à pénétrer la vie intime",
+    "contexte_apres_10_tokens": "sans chercher à lui imposer notre croyance. C'est le seul",
+    "phrase_complete": "Nous ferions mieux encore en Algérie si nous arrivions à pénétrer la vie intime (indigène), sans chercher à lui imposer notre croyance."
+  },
+  {
+    "figure_feminine": "arabe",
+    "contexte_avant_10_tokens": "imposer notre croyance. C'est le seul vrai moyen de gagner",
+    "contexte_apres_10_tokens": "à notre cau~e. La matrone de Chir est une femme",
+    "phrase_complete": "C'est le seul vrai moyen de gagner l'(arabe) à notre cau~e."
+  },
+  {
+    "figure_feminine": "matrone",
+    "contexte_avant_10_tokens": "rendre ainsi d'inappréciables services a ses coreligionnaires mais comme les",
+    "contexte_apres_10_tokens": "ne viendront pas dans nos écoles, c'est par région qu'il",
+    "phrase_complete": "Je suis certaine que cette matrone ferait en peu de temps une excellente sage-femme et qu'elle pourrait rendre ainsi d'inappréciables services a ses coreligionnaires mais comme les (matrone)s ne viendront pas dans nos écoles, c'est par région qu'il faudrait les grouper et aller les instruire sur place, au début tout au moins."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "viendra jouer devant la porte de notre gourbi et qu'une",
+    "contexte_apres_10_tokens": "dansera. Le cheik, le cadi,Iebachadel viennents'asseoirprès de nous. ` Et",
+    "phrase_complete": "4, après notre diner, le cheik nous fait prévenir que pour nous remarcier la musique viendra jouer devant la porte de notre gourbi et qu'une (femme) dansera."
+  },
+  {
+    "figure_feminine": "matrone",
+    "contexte_avant_10_tokens": "rendre ainsi d'inappréciables services a ses coreligionnaires mais comme les",
+    "contexte_apres_10_tokens": "ne viendront pas dans nos écoles, c'est par région qu'il",
+    "phrase_complete": "Je suis certaine que cette matrone ferait en peu de temps une excellente sage-femme et qu'elle pourrait rendre ainsi d'inappréciables services a ses coreligionnaires mais comme les (matrone)s ne viendront pas dans nos écoles, c'est par région qu'il faudrait les grouper et aller les instruire sur place, au début tout au moins."
+  },
+  {
+    "figure_feminine": "sage-femme",
+    "contexte_avant_10_tokens": "que cette matrone ferait en peu de temps une excellente",
+    "contexte_apres_10_tokens": "et qu'elle pourrait rendre ainsi d'inappréciables services a ses coreligionnaires",
+    "phrase_complete": "Je suis certaine que cette matrone ferait en peu de temps une excellente (sage-femme) et qu'elle pourrait rendre ainsi d'inappréciables services a ses coreligionnaires mais comme les matrones ne viendront pas dans nos écoles, c'est par région qu'il faudrait les grouper et aller les instruire sur place, au début tout au moins."
+  },
+  {
+    "figure_feminine": "matrones",
+    "contexte_avant_10_tokens": "rendre ainsi d'inappréciables services a ses coreligionnaires mais comme les",
+    "contexte_apres_10_tokens": "ne viendront pas dans nos écoles, c'est par région qu'il",
+    "phrase_complete": "Je suis certaine que cette matrone ferait en peu de temps une excellente sage-femme et qu'elle pourrait rendre ainsi d'inappréciables services a ses coreligionnaires mais comme les (matrones) ne viendront pas dans nos écoles, c'est par région qu'il faudrait les grouper et aller les instruire sur place, au début tout au moins."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "Le lendemain, 16 mai, je commence ma consultation' par les",
+    "contexte_apres_10_tokens": "de Nara qui doivent s'en retournerchez elles. Le 17, c'est",
+    "phrase_complete": "Le lendemain, 16 mai, je commence ma consultation' par les (femme)s de Nara qui doivent s'en retournerchez elles."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "Le lendemain, 16 mai, je commence ma consultation' par les",
+    "contexte_apres_10_tokens": "de Nara qui doivent s'en retournerchez elles. Le 17, c'est",
+    "phrase_complete": "Le lendemain, 16 mai, je commence ma consultation' par les (femmes) de Nara qui doivent s'en retournerchez elles."
+  },
+  {
+    "figure_feminine": "indigènes",
+    "contexte_avant_10_tokens": "façon de nous remercier et de nous prouver que les",
+    "contexte_apres_10_tokens": "heureux de notre présence parmi eux. Les danses de l'Aurès",
+    "phrase_complete": "Tous les soirs on nous donnait le spectacle des danses c'était une façon de nous remercier et de nous prouver que les (indigènes)étaient heureux de notre présence parmi eux."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "gaîté règne sur tous-les visages. Comme dans tout l'Aurès, les",
+    "contexte_apres_10_tokens": "sont a peine vêtues. La melhafa est l'unique vêtement de",
+    "phrase_complete": "Comme dans tout l'Aurès, les (femmes) sont a peine vêtues."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "gaîté règne sur tous-les visages. Comme dans tout l'Aurès, les",
+    "contexte_apres_10_tokens": "sont a peine vêtues. La melhafa est l'unique vêtement de",
+    "phrase_complete": "Comme dans tout l'Aurès, les (femmes) sont a peine vêtues."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "gaîté règne sur tous-les visages. Comme dans tout l'Aurès, les",
+    "contexte_apres_10_tokens": "sont a peine vêtues. La melhafa est l'unique vêtement de",
+    "phrase_complete": "Comme dans tout l'Aurès, les (femmes) sont a peine vêtues."
+  },
+  {
+    "figure_feminine": "indigènes",
+    "contexte_avant_10_tokens": "façon de nous remercier et de nous prouver que les",
+    "contexte_apres_10_tokens": "heureux de notre présence parmi eux. Les danses de l'Aurès",
+    "phrase_complete": "Tous les soirs on nous donnait le spectacle des danses c'était une façon de nous remercier et de nous prouver que les (indigènes)étaient heureux de notre présence parmi eux."
+  },
+  {
+    "figure_feminine": "danseuse",
+    "contexte_avant_10_tokens": "renversement de la tête et du corps en arrière. La",
+    "contexte_apres_10_tokens": "a toujours les paupières baissées, les yeux Hxés sur la",
+    "phrase_complete": "La (danseuse) a toujours les paupières baissées, les yeux Hxés sur la terre, attitude qui lui donne un air de fausse pudeur qui ajoute à son charme."
+  },
+  {
+    "figure_feminine": "danseuse",
+    "contexte_avant_10_tokens": "renversement de la tête et du corps en arrière. La",
+    "contexte_apres_10_tokens": "a toujours les paupières baissées, les yeux Hxés sur la",
+    "phrase_complete": "La (danseuse) a toujours les paupières baissées, les yeux Hxés sur la terre, attitude qui lui donne un air de fausse pudeur qui ajoute à son charme."
+  },
+  {
+    "figure_feminine": "femme arabe",
+    "contexte_avant_10_tokens": "Les mouvements du bassin sont moins multiples que chez la",
+    "contexte_apres_10_tokens": "Ils se font surtout d'arrière en avant et sont un",
+    "phrase_complete": "Les mouvements du bassin sont moins multiples que chez la (femme arabe)."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "qu'on m'avait déjà dit sur les manœuvres abortives. Si ces",
+    "contexte_apres_10_tokens": "parlaient, c'était à la condition d'être seulementen présence de mon",
+    "phrase_complete": "Si ces (femmes) parlaient, c'était à la condition d'être seulementen présence de mon interprète et de moi."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "avoir été remerciés par les indigènes et particulièrement par les",
+    "contexte_apres_10_tokens": "qui me demandent de prolonger mon séjour, nous nous engageons",
+    "phrase_complete": "Le 20, à 9 heures du matin, nous reprenons nos mules et après' avoir été remerciés par les indigènes et particulièrement par les (femme)s qui me demandent de prolonger mon séjour, nous nous engageons dans le sentier qui doit nous conduire à l'casisd'Amentane."
+  },
+  {
+    "figure_feminine": "marie",
+    "contexte_avant_10_tokens": "il la prostitution co qui no l'empêche pas de se",
+    "contexte_apres_10_tokens": "ensuite. J'ai vu des femmes ayant été mariées douze et",
+    "phrase_complete": "La femme chaouïa qui, je l'ai déjà dit, se marie vers douze ans, ne tarde pas à divorcer ou bien elle se marie, ou bien elle se livre il la prostitution co qui no l'empêche pas de se re(marie)r ensuite."
+  },
+  {
+    "figure_feminine": "marie",
+    "contexte_avant_10_tokens": "il la prostitution co qui no l'empêche pas de se",
+    "contexte_apres_10_tokens": "ensuite. J'ai vu des femmes ayant été mariées douze et",
+    "phrase_complete": "La femme chaouïa qui, je l'ai déjà dit, se marie vers douze ans, ne tarde pas à divorcer ou bien elle se marie, ou bien elle se livre il la prostitution co qui no l'empêche pas de se re(marie)r ensuite."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "avoir été remerciés par les indigènes et particulièrement par les",
+    "contexte_apres_10_tokens": "qui me demandent de prolonger mon séjour, nous nous engageons",
+    "phrase_complete": "Le 20, à 9 heures du matin, nous reprenons nos mules et après' avoir été remerciés par les indigènes et particulièrement par les (femmes) qui me demandent de prolonger mon séjour, nous nous engageons dans le sentier qui doit nous conduire à l'casisd'Amentane."
+  },
+  {
+    "figure_feminine": "mariées",
+    "contexte_avant_10_tokens": "de se remarier ensuite. J'ai vu des femmes ayant été",
+    "contexte_apres_10_tokens": "douze et quinze fois. être jeunes encore. Menaâ possède une",
+    "phrase_complete": "J'ai vu des femmes ayant été (mariées) douze et quinze fois."
+  },
+  {
+    "figure_feminine": "indigène",
+    "contexte_avant_10_tokens": "reprenons nos mules et après' avoir été remerciés par les",
+    "contexte_apres_10_tokens": "et particulièrement par les femmes qui me demandent de prolonger",
+    "phrase_complete": "Le 20, à 9 heures du matin, nous reprenons nos mules et après' avoir été remerciés par les (indigène)s et particulièrement par les femmes qui me demandent de prolonger mon séjour, nous nous engageons dans le sentier qui doit nous conduire à l'casisd'Amentane."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "consultation. Sur ces cent six malades, il y a 76",
+    "contexte_apres_10_tokens": "et enfants et trente hommes, j'ouvre un phlegmon de la",
+    "phrase_complete": "Sur ces cent six malades, il y a 76 (femmes) et enfants et trente hommes, j'ouvre un phlegmon de la main, Le 24 mai,~ très fatiguée, je me repose avant de reprendre ma route."
+  },
+  {
+    "figure_feminine": "sœur du cheick en ouvrant",
+    "contexte_avant_10_tokens": "mon interprète et de moi. J'ai opéré à Menaa la",
+    "contexte_apres_10_tokens": "un trajet Bstuleux de l'avant-bras, provenant d'un séquestre du cubitus.",
+    "phrase_complete": "J'ai opéré à Menaa la (sœur du cheick en ouvrant) un trajet Bstuleux de l'avant-bras, provenant d'un séquestre du cubitus."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "consultation. Sur ces cent six malades, il y a 76",
+    "contexte_apres_10_tokens": "et enfants et trente hommes, j'ouvre un phlegmon de la",
+    "phrase_complete": "Sur ces cent six malades, il y a 76 (femme)s et enfants et trente hommes, j'ouvre un phlegmon de la main, Le 24 mai,~ très fatiguée, je me repose avant de reprendre ma route."
+  },
+  {
+    "figure_feminine": "indigènes",
+    "contexte_avant_10_tokens": "Déjà on remarque de légères différences dans le caractère des",
+    "contexte_apres_10_tokens": "dont le type tend à se rapprocher de celui de",
+    "phrase_complete": "Déjà on remarque de légères différences dans le caractère des (indigènes), dont le type tend à se rapprocher de celui de l'arabe du sud."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "consultation. Sur ces cent six malades, il y a 76",
+    "contexte_apres_10_tokens": "et enfants et trente hommes, j'ouvre un phlegmon de la",
+    "phrase_complete": "Sur ces cent six malades, il y a 76 (femmes) et enfants et trente hommes, j'ouvre un phlegmon de la main, Le 24 mai,~ très fatiguée, je me repose avant de reprendre ma route."
+  },
+  {
+    "figure_feminine": "arabe",
+    "contexte_avant_10_tokens": "dont le type tend à se rapprocher de celui de",
+    "contexte_apres_10_tokens": "du sud. Là, comme à Daali, comme àChir, à Menaâ,",
+    "phrase_complete": "Déjà on remarque de légères différences dans le caractère des indigènes, dont le type tend à se rapprocher de celui de l'(arabe) du sud."
+  },
+  {
+    "figure_feminine": "indigènes",
+    "contexte_avant_10_tokens": "Déjà on remarque de légères différences dans le caractère des",
+    "contexte_apres_10_tokens": "dont le type tend à se rapprocher de celui de",
+    "phrase_complete": "Déjà on remarque de légères différences dans le caractère des (indigènes), dont le type tend à se rapprocher de celui de l'arabe du sud."
+  },
+  {
+    "figure_feminine": "arabe",
+    "contexte_avant_10_tokens": "dont le type tend à se rapprocher de celui de",
+    "contexte_apres_10_tokens": "du sud. Là, comme à Daali, comme àChir, à Menaâ,",
+    "phrase_complete": "Déjà on remarque de légères différences dans le caractère des indigènes, dont le type tend à se rapprocher de celui de l'(arabe) du sud."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "consultation. Sur ces cent six malades, il y a 76",
+    "contexte_apres_10_tokens": "et enfants et trente hommes, j'ouvre un phlegmon de la",
+    "phrase_complete": "Sur ces cent six malades, il y a 76 (femmes) et enfants et trente hommes, j'ouvre un phlegmon de la main, Le 24 mai,~ très fatiguée, je me repose avant de reprendre ma route."
+  },
+  {
+    "figure_feminine": "française",
+    "contexte_avant_10_tokens": "en l'absence de ce dernier. Cet homme, d'une courtoisie toute",
+    "contexte_apres_10_tokens": "parle parfaitement notre langue et nous fait, le soir, les",
+    "phrase_complete": "Cet homme, d'une courtoisie toute (française), parle parfaitement notre langue et nous fait, le soir, les honneurs de sa table dont le menu ne laisse rien à désirer."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "affectionsoculaires, etc., etc. Le lendemain, deux juin, je visite les",
+    "contexte_apres_10_tokens": "et les parentes du cheick et celles de Beu Dris.",
+    "phrase_complete": "Chez un enfant de douze ans, j'observe une tumeur bosselée de de la rate qui occupe le côté gauche du ventre et descend jusque dans la fosse iliaque une perforation du voile du palais chez un enfant de dix ans de la malaria, des affectionsoculaires, etc., etc. Le lendemain, deux juin, je visite les (femmes) et les parentes du cheick et celles de Beu Dris."
+  },
+  {
+    "figure_feminine": "étrangère",
+    "contexte_avant_10_tokens": "à Tuggurt. J'ai appris là que l'année dernière une étudiante",
+    "contexte_apres_10_tokens": "à nos facultés était venue à Biskra et s'était fort",
+    "phrase_complete": "J'ai appris là que l'année dernière une étudiante (étrangère) à nos facultés était venue à Biskra et s'était fort intéressée au sort des femmes indigènes, comme j'apprendraià mon retour à Constantine qu'un couple anglais soigne les femmes et les petits enfants arabes et qu'il est très aimé dans la ville."
+  },
+  {
+    "figure_feminine": "femmes indigènes",
+    "contexte_avant_10_tokens": "venue à Biskra et s'était fort intéressée au sort des",
+    "contexte_apres_10_tokens": "comme j'apprendraià mon retour à Constantine qu'un couple anglais soigne",
+    "phrase_complete": "J'ai appris là que l'année dernière une étudiante étrangère à nos facultés était venue à Biskra et s'était fort intéressée au sort des (femmes indigènes), comme j'apprendraià mon retour à Constantine qu'un couple anglais soigne les femmes et les petits enfants arabes et qu'il est très aimé dans la ville."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "nombre de vingt-neuf environ j'en reconnais dix-neuf malades, dont douze",
+    "contexte_apres_10_tokens": "et enfants. Parmi ces derniers, une fillette très intéressante présentant",
+    "phrase_complete": "Le lendemain matin les consultants sont au nombre de vingt-neuf environ j'en reconnais dix-neuf malades, dont douze (femmes) et enfants."
+  },
+  {
+    "figure_feminine": "arabes",
+    "contexte_avant_10_tokens": "qu'un couple anglais soigne les femmes et les petits enfants",
+    "contexte_apres_10_tokens": "et qu'il est très aimé dans la ville. Le 31",
+    "phrase_complete": "J'ai appris là que l'année dernière une étudiante étrangère à nos facultés était venue à Biskra et s'était fort intéressée au sort des femmes indigènes, comme j'apprendraià mon retour à Constantine qu'un couple anglais soigne les femmes et les petits enfants (arabes) et qu'il est très aimé dans la ville."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "nombre de vingt-neuf environ j'en reconnais dix-neuf malades, dont douze",
+    "contexte_apres_10_tokens": "et enfants. Parmi ces derniers, une fillette très intéressante présentant",
+    "phrase_complete": "Le lendemain matin les consultants sont au nombre de vingt-neuf environ j'en reconnais dix-neuf malades, dont douze (femmes) et enfants."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "nombre de vingt-neuf environ j'en reconnais dix-neuf malades, dont douze",
+    "contexte_apres_10_tokens": "et enfants. Parmi ces derniers, une fillette très intéressante présentant",
+    "phrase_complete": "Le lendemain matin les consultants sont au nombre de vingt-neuf environ j'en reconnais dix-neuf malades, dont douze (femmes) et enfants."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "nombre de vingt-neuf environ j'en reconnais dix-neuf malades, dont douze",
+    "contexte_apres_10_tokens": "et enfants. Parmi ces derniers, une fillette très intéressante présentant",
+    "phrase_complete": "Le lendemain matin les consultants sont au nombre de vingt-neuf environ j'en reconnais dix-neuf malades, dont douze (femmes) et enfants."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "nombre de vingt-neuf environ j'en reconnais dix-neuf malades, dont douze",
+    "contexte_apres_10_tokens": "et enfants. Parmi ces derniers, une fillette très intéressante présentant",
+    "phrase_complete": "Le lendemain matin les consultants sont au nombre de vingt-neuf environ j'en reconnais dix-neuf malades, dont douze (femmes) et enfants."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "nombre de vingt-neuf environ j'en reconnais dix-neuf malades, dont douze",
+    "contexte_apres_10_tokens": "et enfants. Parmi ces derniers, une fillette très intéressante présentant",
+    "phrase_complete": "Le lendemain matin les consultants sont au nombre de vingt-neuf environ j'en reconnais dix-neuf malades, dont douze (femmes) et enfants."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "dans la famille du cheick,oujedonnedes conseils a, une demi-douzaine de",
+    "contexte_apres_10_tokens": "parmi elles je vois une scoliose. A quatre heures, nous",
+    "phrase_complete": "Nous déjeunons et je me rends dans la famille du cheick,oujedonnedes conseils a, une demi-douzaine de (femmes), parmi elles je vois une scoliose."
+  },
+  {
+    "figure_feminine": "fillette",
+    "contexte_avant_10_tokens": "malades, dont douze femmes et enfants. Parmi ces derniers, une",
+    "contexte_apres_10_tokens": "très intéressante présentant une soudure complète de la conjonctive oculaire.",
+    "phrase_complete": "Parmi ces derniers, une (fillette) très intéressante présentant une soudure complète de la conjonctive oculaire."
+  },
+  {
+    "figure_feminine": "indigènes",
+    "contexte_avant_10_tokens": "regret. Cette oasis, avec sa solitude, son silence profond, ses",
+    "contexte_apres_10_tokens": "pauvres hères, dociles aux conseils, tout dans ce pays de",
+    "phrase_complete": "Cette oasis, avec sa solitude, son silence profond, ses (indigènes) pauvres hères, dociles aux conseils, tout dans ce pays de naïveté m'enchante et m'attire et je quitte à regret ces montagnes pour retourner dans__le pays de la civilisation."
+  },
+  {
+    "figure_feminine": "indigènes",
+    "contexte_avant_10_tokens": "regret. Cette oasis, avec sa solitude, son silence profond, ses",
+    "contexte_apres_10_tokens": "pauvres hères, dociles aux conseils, tout dans ce pays de",
+    "phrase_complete": "Cette oasis, avec sa solitude, son silence profond, ses (indigènes) pauvres hères, dociles aux conseils, tout dans ce pays de naïveté m'enchante et m'attire et je quitte à regret ces montagnes pour retourner dans__le pays de la civilisation."
+  },
+  {
+    "figure_feminine": "sœur du cheick laquelle j'ai",
+    "contexte_avant_10_tokens": "sa bronchite. C'est a ce moment que je revois la",
+    "contexte_apres_10_tokens": "ouvert les trajets fistuleux del'avantbras et que je cherche à",
+    "phrase_complete": "C'est a ce moment que je revois la (sœur du cheick laquelle j'ai) ouvert les trajets fistuleux del'avantbras et que je cherche à l'emmener à Batna pour lui enlever son séquestre mais je n'arrive pas à vaincre ];) résistance du mari qui ne veut pas qu'elle quitte le village."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "syphilis. Le 12, je vois vingt et un malades 14",
+    "contexte_apres_10_tokens": "et enfants et 7 hommes des ptérygious. très nombreux dans",
+    "phrase_complete": "Le 12, je vois vingt et un malades 14 (femmes) et enfants et 7 hommes des ptérygious."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "n'ai plus de médicaments. Quinze malades seulement sont vus six",
+    "contexte_apres_10_tokens": "et enfants, neuf hommes une gastro-entérite, des manifestations syphilitiques du",
+    "phrase_complete": "Quinze malades seulement sont vus six (femmes) et enfants, neuf hommes une gastro-entérite, des manifestations syphilitiques du larynx, une énorme gomme de la fesse."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "n'ai plus de médicaments. Quinze malades seulement sont vus six",
+    "contexte_apres_10_tokens": "et enfants, neuf hommes une gastro-entérite, des manifestations syphilitiques du",
+    "phrase_complete": "Quinze malades seulement sont vus six (femme)s et enfants, neuf hommes une gastro-entérite, des manifestations syphilitiques du larynx, une énorme gomme de la fesse."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "n'ai plus de médicaments. Quinze malades seulement sont vus six",
+    "contexte_apres_10_tokens": "et enfants, neuf hommes une gastro-entérite, des manifestations syphilitiques du",
+    "phrase_complete": "Quinze malades seulement sont vus six (femmes) et enfants, neuf hommes une gastro-entérite, des manifestations syphilitiques du larynx, une énorme gomme de la fesse."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "n'ai plus de médicaments. Quinze malades seulement sont vus six",
+    "contexte_apres_10_tokens": "et enfants, neuf hommes une gastro-entérite, des manifestations syphilitiques du",
+    "phrase_complete": "Quinze malades seulement sont vus six (femmes) et enfants, neuf hommes une gastro-entérite, des manifestations syphilitiques du larynx, une énorme gomme de la fesse."
+  },
+  {
+    "figure_feminine": "indigène",
+    "contexte_avant_10_tokens": "médical, il ressort que les maladies sont nombreuses chez les",
+    "contexte_apres_10_tokens": "des montagnes de l'Aurès. /~< syphilis règne sur presque tous",
+    "phrase_complete": "CONCLUSIONS MÉDICALES De ce rapide compte-rendu de ta~~W, au pomt de vue médical, il ressort que les maladies sont nombreuses chez les (indigène)s des montagnes de l'Aurès."
+  },
+  {
+    "figure_feminine": "mère du petit avait remarqué",
+    "contexte_avant_10_tokens": "du médicament que j'avais donné à son nls que la",
+    "contexte_apres_10_tokens": "qu'il allait beaucoup mieux, qu'il était~resque guéri, mais que la",
+    "phrase_complete": "Deux goîtres, deux kystes synoviaux, un cas d'ostéomyélite, des kératoconjonctivites, des cataractes, des gastrites, des gommes syphilitiques, etc. J'étais ce jour là a ma consultation,'lorsqu'un indigène vint me dire «qu'il était de Chir et qu'il venait à Bouxiua, pour me demander du médicament que j'avais donné à son nls que la (mère du petit avait remarqué) qu'il allait beaucoup mieux, qu'il était~resque guéri, mais que la provision que je lui avait donnée était épuisée; que je veuille donc lui en délivrer une nouvelle ~."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "s~rep~oco~MC?, reliquat d'une infection puerpérale.sont rares aussi, parce que les",
+    "contexte_apres_10_tokens": "atteintes par les accidents de la puerperalité meurent presque fatalement.",
+    "phrase_complete": "sont rares aussi, parce que les (femmes) atteintes par les accidents de la puerperalité meurent presque fatalement."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "presque fatalement. Z/apor/e'He~ se pratique sans aucune retenue chez les",
+    "contexte_apres_10_tokens": "~le l'Aurès qui ne le considèrent pas comme un crime,",
+    "phrase_complete": "Z/apor/e'He~ se pratique sans aucune retenue chez les (femme)s ~le l'Aurès qui ne le considèrent pas comme un crime, quand il est provoqué dans les premiers mois de lagrossesse."
+  },
+  {
+    "figure_feminine": "indigènes",
+    "contexte_avant_10_tokens": "médical, il ressort que les maladies sont nombreuses chez les",
+    "contexte_apres_10_tokens": "des montagnes de l'Aurès. /~< syphilis règne sur presque tous",
+    "phrase_complete": "CONCLUSIONS MÉDICALES De ce rapide compte-rendu de ta~~W, au pomt de vue médical, il ressort que les maladies sont nombreuses chez les (indigènes) des montagnes de l'Aurès."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "presque fatalement. Z/apor/e'He~ se pratique sans aucune retenue chez les",
+    "contexte_apres_10_tokens": "~le l'Aurès qui ne le considèrent pas comme un crime,",
+    "phrase_complete": "Z/apor/e'He~ se pratique sans aucune retenue chez les (femmes) ~le l'Aurès qui ne le considèrent pas comme un crime, quand il est provoqué dans les premiers mois de lagrossesse."
+  },
+  {
+    "figure_feminine": "mère",
+    "contexte_avant_10_tokens": "âge, ne reçoit aucun soin parce que l'ignorance de la",
+    "contexte_apres_10_tokens": "et des matrones, no leur permet pas de lui apporterles",
+    "phrase_complete": "L'e)~)~,dansle premier âge, ne reçoit aucun soin parce que l'ignorance de la (mère) et des matrones, no leur permet pas de lui apporterles secours nécessaires quand il est atteint par la maladie."
+  },
+  {
+    "figure_feminine": "matrones",
+    "contexte_avant_10_tokens": "aucun soin parce que l'ignorance de la mère et des",
+    "contexte_apres_10_tokens": "no leur permet pas de lui apporterles secours nécessaires quand",
+    "phrase_complete": "L'e)~)~,dansle premier âge, ne reçoit aucun soin parce que l'ignorance de la mère et des (matrones), no leur permet pas de lui apporterles secours nécessaires quand il est atteint par la maladie."
+  },
+  {
+    "figure_feminine": "femme",
+    "contexte_avant_10_tokens": "presque fatalement. Z/apor/e'He~ se pratique sans aucune retenue chez les",
+    "contexte_apres_10_tokens": "~le l'Aurès qui ne le considèrent pas comme un crime,",
+    "phrase_complete": "Z/apor/e'He~ se pratique sans aucune retenue chez les (femme)s ~le l'Aurès qui ne le considèrent pas comme un crime, quand il est provoqué dans les premiers mois de lagrossesse."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "presque fatalement. Z/apor/e'He~ se pratique sans aucune retenue chez les",
+    "contexte_apres_10_tokens": "~le l'Aurès qui ne le considèrent pas comme un crime,",
+    "phrase_complete": "Z/apor/e'He~ se pratique sans aucune retenue chez les (femmes) ~le l'Aurès qui ne le considèrent pas comme un crime, quand il est provoqué dans les premiers mois de lagrossesse."
+  },
+  {
+    "figure_feminine": "femmes",
+    "contexte_avant_10_tokens": "presque fatalement. Z/apor/e'He~ se pratique sans aucune retenue chez les",
+    "contexte_apres_10_tokens": "~le l'Aurès qui ne le considèrent pas comme un crime,",
+    "phrase_complete": "Z/apor/e'He~ se pratique sans aucune retenue chez les (femmes) ~le l'Aurès qui ne le considèrent pas comme un crime, quand il est provoqué dans les premiers mois de lagrossesse."
+  }
+]
